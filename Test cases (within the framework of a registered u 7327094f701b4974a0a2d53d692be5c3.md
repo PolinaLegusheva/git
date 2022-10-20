@@ -6,8 +6,8 @@
 | |#2 Click on the selected sizes| | | |
 | |#2 Select and click on type| | | |
 | |#2 Select and click on gender| | | |
-|Filter(Color)|#1 Click the “Color” button in the section “Sort&Filter”|A tab with the filtered product will open and the selected filter will be displayed in the “Applied filters”|Success|Test%20cases%20(within%20the%20framework%20of%20a%20registered%20u%207327094f701b4974a0a2d53d692be5c3/Screenshot_from_2022-10-20_14-39-10.png|
-|Filter(Product Type)|#1 Click the “Product Type” button in the section “Sort&Filter”|A tab with the filtered product will open and the selected filter will be displayed in the “Applied filters”|Success|Test%20cases%20(within%20the%20framework%20of%20a%20registered%20u%207327094f701b4974a0a2d53d692be5c3/Screenshot_from_2022-10-20_14-29-46.png|
+|Filter(Color)|#1 Click the “Color” button in the section “Sort&Filter”|A tab with the filtered product will open and the selected filter will be displayed in the “Applied filters”|Screenshot_from_2022-10-20_14-39-10.png|
+|Filter(Product Type)|#1 Click the “Product Type” button in the section “Sort&Filter”|A tab with the filtered product will open and the selected filter will be displayed in the “Applied filters”|Success|Screenshot from 2022-10-20 14-42-30.png|
 |Filter(Size)|#1 Click the “Size” button in the section “Sort&Filter”|A tab with the filtered product will open and the selected filter will be displayed in the “Applied filters”|Success|Test%20cases%20(within%20the%20framework%20of%20a%20registered%20u%207327094f701b4974a0a2d53d692be5c3/Screenshot_from_2022-10-20_14-37-36.png|
 | | | | | |
 | |#3 Click the “Price (low - high)” button|Products sorted from low to high price are shown|Success|Test%20cases%20(within%20the%20framework%20of%20a%20registered%20u%207327094f701b4974a0a2d53d692be5c3/Screenshot_from_2022-10-20_14-06-58.png|
